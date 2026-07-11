@@ -61,7 +61,7 @@ export function SortableQuestionItem({
         border: isActive
           ? "1px solid rgba(255,255,255,0.12)"
           : "1px solid transparent",
-        transition: "all 0.15s ease",
+        
         marginBottom: 2,
       }}
       onClick={onClick}

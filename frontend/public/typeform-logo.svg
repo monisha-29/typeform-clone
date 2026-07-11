@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 40" fill="none">
+  <!-- Typeform logo mark: narrow pill left + wider rounded rect right -->
+  <rect x="0" y="4" width="10" height="32" rx="5" fill="white"/>
+  <rect x="15" y="4" width="20" height="32" rx="5" fill="white"/>
+  <!-- Wordmark -->
+  <text x="44" y="28.5" font-family="Arial, -apple-system, sans-serif" font-weight="700" font-size="21" fill="white" letter-spacing="-0.3">Typeform</text>
+</svg>
